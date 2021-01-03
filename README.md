@@ -1,4 +1,4 @@
-# carvana_segmentation
+# carvana-segmentation
 Automatically remove background image/text/noise from images with foreground object
 
 
