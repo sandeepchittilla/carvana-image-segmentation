@@ -14,3 +14,5 @@ The Python notebook carvana_segmentation.ipynb has code for :
 - Defining a CNN with U-Net Architecture
 - Training, Model Validation and Quality Assesment Metrics (IoU, F1, PR curves)
 - Predictions on images outside Carvana Dataset
+
+There is also a .py notebook to easily identify changes between commits
